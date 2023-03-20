@@ -1,4 +1,4 @@
-package com.yandr2022.spring.rest.configuration;
+package com.yandr2022.spring.security.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
